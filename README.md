@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi, my name is Olivia! 
+📫 Email Contact: o2ji@uwaterloo.ca
 
+:triangular_ruler: Studying: Chemical Engineering at the University of Waterloo
+
+I am currently focusing on a temperature measurement project with Arduino and Python
 <!--
 **olivia-ji/olivia-ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
